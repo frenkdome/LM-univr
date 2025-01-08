@@ -1,0 +1,247 @@
+{
+  "main": {
+    "id": "75c88e021ee1faab",
+    "type": "split",
+    "children": [
+      {
+        "id": "77d4ca765462d9c8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8d6c17ee54032d43",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "graph",
+              "state": {},
+              "pinned": true,
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "857ca5ecc402e3e9",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Note Definitive/CyberSecurity/_CYBERSECURITY_.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "_CYBERSECURITY_"
+            }
+          },
+          {
+            "id": "417dd505569a7a00",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Introduzione alla Software Security.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Introduzione alla Software Security"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "bc9dec270b8d632b",
+    "type": "split",
+    "children": [
+      {
+        "id": "564c5eeb07215d06",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "56463adb627b17d9",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "97bde63ef501be4f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "wannacr",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "2cd1599fb1734628",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 391.5,
+    "collapsed": true
+  },
+  "right": {
+    "id": "d05071eac289941b",
+    "type": "split",
+    "children": [
+      {
+        "id": "34d386d2939ce633",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "048bebd460eb78b1",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Note Definitive/_Atomic Notes_/Tipologie di malware.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Tipologie di malware"
+            }
+          },
+          {
+            "id": "ea5c7340986feba7",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Note Definitive/_Atomic Notes_/Tipologie di malware.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Tipologie di malware"
+            }
+          },
+          {
+            "id": "732d36f737cefed1",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "b6706929aeee8e6a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Note Definitive/_Atomic Notes_/Tipologie di malware.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Tipologie di malware"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "417dd505569a7a00",
+  "lastOpenFiles": [
+    "Pasted image 20241103174440.png",
+    "Pasted image 20241103172424.png",
+    "Pasted image 20241103172257.png",
+    "Stuxnet.md",
+    "Pasted image 20241103171011.png",
+    "Pasted image 20241102163744.png",
+    "Pasted image 20241102165803.png",
+    "ICS (Industrial Control System).md",
+    "Pasted image 20241102170515.png",
+    "Infrastrutture Critiche.md",
+    "Scada.md",
+    "Pasted image 20241102170956.png",
+    "Pasted image 20241102170458.png",
+    "Pasted image 20241102170852.png",
+    "Pasted image 20241102170344.png",
+    "Shodan.md",
+    "Cyber War.md",
+    "Note Definitive/CyberSecurity/_CYBERSECURITY_.md",
+    "Introduzione alla Software Security.md",
+    "Note Definitive/Software Security/_SOFTWARE SECURITY_.md",
+    "Attacchi alle infrastrutture critiche.md",
+    "Note Definitive/CyberSecurity/Attaccante (Threat Actor).md",
+    "Note Definitive/_Atomic Notes_/Categorie di attaccanti.md",
+    "Note Definitive/_Atomic Notes_/Federali (nation-state).md",
+    "Note Definitive/_Atomic Notes_/Botnet.md",
+    "Note Definitive/_Atomic Notes_/Phishing.md",
+    "Phishing-as-a-service.md",
+    "Deepfake Phishing.md",
+    "Note Definitive/Linux LPI - Commands/find.md",
+    "Note Definitive/Linux LPI - Commands/_LINUX COMMANDS_.md",
+    "Note Definitive/_Atomic Notes_/Siti di Phishing.md",
+    "Note Definitive/Linux LPI - Commands/xargs.md",
+    "Note Definitive/_Atomic Notes_/Email Phishing.md",
+    "Note Definitive/_Atomic Notes_/Kevin Mitnick (aka Condor).md",
+    "Note Definitive/_Atomic Notes_/Principi di Persuasione.md",
+    "Note Definitive/_Atomic Notes_/Whaling.md",
+    "Note Definitive/Software Security",
+    "Note Definitive/Linux LPI - Commands",
+    "Droppers ",
+    "CyberSecurity e Software Security",
+    "Note Definitive/Progettazione e validazione di sistemi software",
+    "5 - DEF NOTE/Crittografia/Sottoargomenti",
+    "Note Definitive/Crittografia",
+    "4 - TEMPLATE",
+    "NOTE/Senza nome.canvas",
+    "Note Definitive",
+    "3 - INDICI"
+  ]
+}

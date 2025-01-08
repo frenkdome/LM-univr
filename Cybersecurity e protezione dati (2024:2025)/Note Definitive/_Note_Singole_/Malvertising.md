@@ -1,0 +1,1 @@
+==Distribuzione di malware attraverso annunci pubblicitari== online. Gli attaccanti inseriscono codice malevolo in banner pubblicitari che, quando visualizzati o cliccati, possono infettare il sistema dell'utente.

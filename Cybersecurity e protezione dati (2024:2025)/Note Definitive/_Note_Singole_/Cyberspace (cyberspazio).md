@@ -1,0 +1,1 @@
+È l’ambiente dove viviamo e ==dove avvengono gli attacchi==. Consiste in dispositivi tecnologici come computer che comunicano, salvano, gestiscono processi e sono interconnessi.

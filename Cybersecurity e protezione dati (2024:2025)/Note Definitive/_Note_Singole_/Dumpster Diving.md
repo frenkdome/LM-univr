@@ -1,0 +1,3 @@
+Il **Dumpster Diving** è una tecnica di ingegneria sociale in cui gli attaccanti ==cercano informazioni sensibili frugando tra i rifiuti di un'organizzazione== o di un individuo. L'obiettivo è recuperare dati utili come documenti cartacei, supporti digitali o qualsiasi materiale scartato che possa contenere informazioni confidenziali, per utilizzarli in attacchi futuri o per ottenere accesso non autorizzato a sistemi e risorse.
+
+![[Pasted image 20241029002930.png]]

@@ -1,0 +1,1 @@
+Malware che ==raccoglie informazioni sull'utente== e sulle sue attività senza il suo consenso, ==trasmettendole a terze parti==. Può monitorare abitudini di navigazione, raccogliere dati personali e credenziali.

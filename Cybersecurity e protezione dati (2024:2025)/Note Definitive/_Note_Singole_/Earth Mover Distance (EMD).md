@@ -1,0 +1,1 @@
+La **EMD** misura la “distanza” tra due distribuzioni, immaginandole come “molecole di terra” che devono essere spostate da una distribuzione all’altra, minimizzando il lavoro complessivo. Viene calcolata sommando i costi di spostamento pesati dalla quantità di “terra” (probabilità) da spostare.

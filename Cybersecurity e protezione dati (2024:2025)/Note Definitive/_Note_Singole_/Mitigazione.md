@@ -1,0 +1,2 @@
+
+Si riferisce all'insieme di ==misure== e azioni intraprese per ==ridurre== o limitare l’==impatto di potenziali minacce o vulnerabilità== sulla sicurezza informatica di un’organizzazione o di un sistema.

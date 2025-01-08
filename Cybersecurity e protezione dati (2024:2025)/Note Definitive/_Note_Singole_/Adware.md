@@ -1,0 +1,1 @@
+Malware che ==visualizza pubblicità indesiderate== o reindirizza l'utente a siti promozionali. Spesso viene installato insieme a altri software e può compromettere l'esperienza dell'utente e le prestazioni del sistema.

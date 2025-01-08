@@ -1,0 +1,1 @@
+Malware che ==inganna gli utenti facendoli credere che il loro computer sia infetto== da virus o problemi gravi. ==Spinge l'utente ad acquistare o installare programmi inutili o dannosi per "risolvere" il problema inesistente==.

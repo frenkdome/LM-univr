@@ -1,0 +1,3 @@
+È una forma specializzata di attacco di phishing altamente mirato che ==prende di mira figure di alto profilo all'interno di un'organizzazione==, come dirigenti esecutivi, amministratori delegati (CEO), direttori finanziari (CFO) e altri membri del top management. Il termine "whaling", derivato dall'inglese "whale" che significa "balena", sottolinea l'obiettivo di colpire i "pesci grossi" dell'azienda.
+
+![[Pasted image 20241029002254.png]]

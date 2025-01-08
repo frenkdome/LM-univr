@@ -1,0 +1,7 @@
+- Tool per trovare dispositivi esposti alla rete
+	- [[Shodan]]
+	- Censys
+	- Kamerka
+- Router e IP camera compromesse a causa di password deboli o credenziali di default
+- Vulnerabilità sfruttate per l’accesso a router / dispositivi non aggiornati
+- Custom tools per l’accesso ai dati personali

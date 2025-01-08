@@ -1,0 +1,1 @@
+==Misure di sicurezza== fatte dalle persone incaricate per mantenere le [[Proprietà di sicurezza di un sistema]] e in caso di attacco le azioni correttive.

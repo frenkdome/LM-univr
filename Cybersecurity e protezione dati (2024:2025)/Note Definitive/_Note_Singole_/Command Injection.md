@@ -1,0 +1,1 @@
+È un attacco in cui l'obiettivo è l'==esecuzione di comandi arbitrari== sul sistema operativo host tramite un'applicazione vulnerabile.

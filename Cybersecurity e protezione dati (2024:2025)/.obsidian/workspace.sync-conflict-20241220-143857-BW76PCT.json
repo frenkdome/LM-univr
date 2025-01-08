@@ -1,0 +1,279 @@
+{
+  "main": {
+    "id": "75c88e021ee1faab",
+    "type": "split",
+    "children": [
+      {
+        "id": "77d4ca765462d9c8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8d6c17ee54032d43",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "graph",
+              "state": {},
+              "pinned": true,
+              "icon": "lucide-git-fork",
+              "title": "Vista grafo"
+            }
+          },
+          {
+            "id": "857ca5ecc402e3e9",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Note Definitive/CyberSecurity/_CYBERSECURITY_.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "_CYBERSECURITY_"
+            }
+          },
+          {
+            "id": "a321874ee810daca",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Note Definitive/_Atomic Notes_/Cyber attacchi comuni.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Cyber attacchi comuni"
+            }
+          },
+          {
+            "id": "ff7b4be9940e8e4d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Note Definitive/CyberSecurity/Identity and Access Management (IAM).md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Identity and Access Management (IAM)"
+            }
+          },
+          {
+            "id": "cdbf44c46591c9bc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NIST 800-30.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "NIST 800-30"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "bc9dec270b8d632b",
+    "type": "split",
+    "children": [
+      {
+        "id": "564c5eeb07215d06",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "56463adb627b17d9",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Esplora risorse"
+            }
+          },
+          {
+            "id": "97bde63ef501be4f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "brute",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Ricerca"
+            }
+          },
+          {
+            "id": "2cd1599fb1734628",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 391.5,
+    "collapsed": true
+  },
+  "right": {
+    "id": "d05071eac289941b",
+    "type": "split",
+    "children": [
+      {
+        "id": "34d386d2939ce633",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "048bebd460eb78b1",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Note Definitive/_Atomic Notes_/Tipologie di malware.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Tipologie di malware"
+            }
+          },
+          {
+            "id": "ea5c7340986feba7",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Note Definitive/_Atomic Notes_/Tipologie di malware.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Tipologie di malware"
+            }
+          },
+          {
+            "id": "732d36f737cefed1",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "b6706929aeee8e6a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Note Definitive/_Atomic Notes_/Tipologie di malware.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Tipologie di malware"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Apri selezione rapida": false,
+      "graph:Apri vista grafo": false,
+      "canvas:Crea nuova lavagna": false,
+      "daily-notes:Apri nota del giorno": false,
+      "templates:Inserisci modello": false,
+      "command-palette:Apri riquadro comandi": false
+    }
+  },
+  "active": "cdbf44c46591c9bc",
+  "lastOpenFiles": [
+    "Pasted image 20241220142819.png",
+    "Pasted image 20241220142654.png",
+    "Lab Cam.md",
+    "Pasted image 20241220142029.png",
+    "Pasted image 20241220142336.png",
+    "Pasted image 20241220141754.png",
+    "Untitled.md",
+    "Seminario LLM.md",
+    "Pasted image 20241217172105.png",
+    "Cyber Risk Management.md",
+    "NIST 800-30.md",
+    "Pasted image 20241217171314.png",
+    "OWASP Risk Rating Methodology.md",
+    "Pasted image 20241217171218.png",
+    "Pasted image 20241217171207.png",
+    "Pasted image 20241217171151.png",
+    "Pasted image 20241217171000.png",
+    "Note Definitive/CyberSecurity/_CYBERSECURITY_.md",
+    "Note Definitive/CyberSecurity/Identity and Access Management (IAM).md",
+    "Note Definitive/_Atomic Notes_/Access Control.md",
+    "ABAC (Attribute-Based Access Control).md",
+    "XACML.md",
+    "Note Definitive/_Atomic Notes_/Cyber attacchi comuni.md",
+    "RBAC (Role-Based Access Control).md",
+    "Senza nome.md",
+    "DAC (Discretionary Access Control).md",
+    "Capability List.md",
+    "Access Control List.md",
+    "Access Control Matrix.md",
+    "Note Definitive/_Atomic Notes_/Autenticazione.md",
+    "Biometria.md",
+    "One-time Password.md",
+    "Challenge-response.md",
+    "Note Definitive/_Atomic Notes_/User Authentication.md",
+    "Note Definitive/_Atomic Notes_/Authorization Code Grant Flow OAuth.md",
+    "Note Definitive/_Atomic Notes_/Autorizzazione.md",
+    "Note Definitive/Google IT Support",
+    "Note Definitive/Software Security",
+    "Note Definitive/Linux LPI - Commands",
+    "Droppers ",
+    "CyberSecurity e Software Security",
+    "Note Definitive/Progettazione e validazione di sistemi software",
+    "5 - DEF NOTE/Crittografia/Sottoargomenti",
+    "Note Definitive/Crittografia",
+    "4 - TEMPLATE",
+    "NOTE/Senza nome.canvas",
+    "Note Definitive"
+  ]
+}

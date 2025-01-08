@@ -1,0 +1,1 @@
+Malware progettato per ==rubare informazioni finanziarie==, come credenziali di ==accesso ai servizi bancari online==, dettagli di carte di credito e altre informazioni sensibili legate alle transazioni finanziarie.

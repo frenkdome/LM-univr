@@ -1,0 +1,3 @@
+Lo **Shoulder Surfing** è una tecnica di ingegneria sociale in cui un attaccante ==ottiene informazioni sensibili osservando direttamente o indirettamente la vittima mentre inserisce dati confidenziali==, come password, codici PIN o altre credenziali. Questo può avvenire fisicamente, guardando oltre la spalla della vittima, o attraverso strumenti come telecamere nascoste e binocoli.
+
+![[Pasted image 20241029002946.png]]

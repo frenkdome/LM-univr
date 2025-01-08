@@ -1,0 +1,1 @@
+Malware che ==crea accessi nascosti al sistema==, bypassando le normali procedure di autenticazione. Consente agli attaccanti di accedere e controllare il sistema in modo remoto e non autorizzato.

@@ -1,0 +1,243 @@
+{
+  "main": {
+    "id": "75c88e021ee1faab",
+    "type": "split",
+    "children": [
+      {
+        "id": "77d4ca765462d9c8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8d6c17ee54032d43",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "graph",
+              "state": {},
+              "pinned": true,
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "857ca5ecc402e3e9",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Note Definitive/CyberSecurity/_CYBERSECURITY_.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "_CYBERSECURITY_"
+            }
+          },
+          {
+            "id": "710f9f3688b5376a",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "ALLEGATI/Pasted image 20241230130043.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20241230130043"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "bc9dec270b8d632b",
+    "type": "split",
+    "children": [
+      {
+        "id": "564c5eeb07215d06",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "56463adb627b17d9",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "97bde63ef501be4f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "2cd1599fb1734628",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 640.5
+  },
+  "right": {
+    "id": "d05071eac289941b",
+    "type": "split",
+    "children": [
+      {
+        "id": "34d386d2939ce633",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "048bebd460eb78b1",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Note Definitive/_Atomic Notes_/Tipologie di malware.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Tipologie di malware"
+            }
+          },
+          {
+            "id": "ea5c7340986feba7",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Note Definitive/_Atomic Notes_/Tipologie di malware.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Tipologie di malware"
+            }
+          },
+          {
+            "id": "732d36f737cefed1",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "b6706929aeee8e6a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Note Definitive/_Atomic Notes_/Tipologie di malware.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Tipologie di malware"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "710f9f3688b5376a",
+  "lastOpenFiles": [
+    "ALLEGATI/Pasted image 20241230151027.png",
+    "ALLEGATI/Pasted image 20241230151046.png",
+    "ALLEGATI/Pasted image 20241230151340.png",
+    "ALLEGATI/Pasted image 20241230152619.png",
+    "ALLEGATI/Pasted image 20241230152701.png",
+    "ALLEGATI/Pasted image 20241230160042.png",
+    "ALLEGATI/Pasted image 20241230160838.png",
+    "ALLEGATI/Pasted image 20241230162225.png",
+    "ALLEGATI/Pasted image 20241230170508.png",
+    "ALLEGATI/Pasted image 20241230170611.png",
+    "ALLEGATI/Pasted image 20241230170638.png",
+    "Note Definitive/_Atomic Notes_/Federali (nation-state).md",
+    "Note Definitive/_Atomic Notes_/Federali (nation-state).sync-conflict-20241105-104023-N7DNRGH.md",
+    "Note Definitive/_Atomic Notes_/Cyber attacchi comuni.md",
+    "Note Definitive/CyberSecurity/_CYBERSECURITY_.md",
+    "Note Definitive/CyberSecurity/Introduzione alla Cyber security e Definizioni.md",
+    "Note Definitive/_Atomic Notes_/Phishing.md",
+    "Note Definitive/_Atomic Notes_/Siti di Phishing.md",
+    "Note Definitive/_Atomic Notes_/Siti di Phishing.md",
+    "Note Definitive/_Atomic Notes_/Phishing-as-a-service.md",
+    "Note Definitive/_Atomic Notes_/Compromissione di dispositivi collegati alla rete.sync-conflict-20241105-104023-N7DNRGH.md",
+    "Note Definitive/_Atomic Notes_/Lab Cam.md",
+    "Note Definitive/_Atomic Notes_/Seminario LLM.md",
+    "Note Definitive/_Atomic Notes_/Cifrario di Cesare.md",
+    "Note Definitive/_Atomic Notes_/Computer.md",
+    "Note Definitive/_Atomic Notes_/IT supporter.md",
+    "Note Definitive/_Atomic Notes_/Steganografia.md",
+    "Note Definitive/_Atomic Notes_/Hijacking.md",
+    "Note Definitive/_Atomic Notes_/Informatica (IT).md",
+    "Note Definitive/_Atomic Notes_/Algoritmo.md",
+    "Note Definitive/CyberSecurity/Database Anonymity.md",
+    "Note Definitive/_Atomic Notes_/Cyber Security.md",
+    "Note Definitive/_Atomic Notes_/ABAC (Attribute-Based Access Control).md",
+    "Note Definitive/_Atomic Notes_/XACML.md",
+    "Note Definitive/_Atomic Notes_/Tier NIST CSF.md",
+    "Note Definitive/_Atomic Notes_/T-Closeness.md",
+    "Note Definitive/Google IT Support",
+    "Note Definitive/Software Security",
+    "Note Definitive/Linux LPI - Commands",
+    "Droppers ",
+    "CyberSecurity e Software Security",
+    "Note Definitive/Progettazione e validazione di sistemi software",
+    "5 - DEF NOTE/Crittografia/Sottoargomenti",
+    "Note Definitive/Crittografia",
+    "4 - TEMPLATE",
+    "NOTE/Senza nome.canvas",
+    "Note Definitive"
+  ]
+}

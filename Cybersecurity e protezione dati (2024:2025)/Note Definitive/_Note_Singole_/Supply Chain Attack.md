@@ -1,0 +1,3 @@
+Attacco che mira a compromettere un'organizzazione attraverso le ==vulnerabilità presenti nella sua catena di fornitura==. Invece di attaccare direttamente l'obiettivo principale, ==gli attaccanti sfruttano le debolezze di fornitori, partner o terze parti== che forniscono software, hardware o servizi. Inserendo malware o codice malevolo nei prodotti o negli aggiornamenti legittimi, gli attaccanti riescono a diffondere la compromissione all'organizzazione target quando questa integra o aggiorna tali componenti, permettendo accesso non autorizzato, furto di dati o interruzione dei servizi.
+
+[[Third Party Relationship Exploitation]]

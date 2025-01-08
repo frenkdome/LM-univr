@@ -1,0 +1,1 @@
+Malware che si ==presenta come programma legittimo== o utile per ingannare l'utente. Una volta installato, permette accessi non autorizzati al sistema o esegue azioni dannose senza il consenso dell'utente.

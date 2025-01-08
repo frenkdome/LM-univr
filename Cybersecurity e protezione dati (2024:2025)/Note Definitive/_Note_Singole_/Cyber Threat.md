@@ -1,0 +1,1 @@
+Ogni tipo di ==circostanza / evento== che può essere ==sfruttato per condurre l’attacco==.

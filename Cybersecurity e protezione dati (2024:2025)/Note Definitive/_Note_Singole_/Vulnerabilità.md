@@ -1,0 +1,1 @@
+Baco, falla o ==debolezza esposta da un prodotto== (app, sistema, dispositivo, servizio) che viene sfruttata per condurre l’attacco e da quale l’attaccante ha interesse a prendere informazioni.
